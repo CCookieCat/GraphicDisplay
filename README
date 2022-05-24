@@ -1,0 +1,3 @@
+Old project. You can create circles and rectangles in different colors, save them to a file or import Data from a mySQL Database.
+Some of the functionality broke when I ported it from VS 2012 to 2022. Might fix it at a later point in time.
+Feel free to play around with this project and make changes, in the meantime.
